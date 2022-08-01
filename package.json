@@ -1,0 +1,23 @@
+{
+  "name": "m3u2trelloapp-claristizabalg",
+  "version": "1.0.0",
+  "description": "Es un tablero tipo Kanban",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch ./db/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claristizabalg/M3U2TrelloAPP-Claristizabalg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claristizabalg/M3U2TrelloAPP-Claristizabalg/issues"
+  },
+  "homepage": "https://github.com/Claristizabalg/M3U2TrelloAPP-Claristizabalg#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}

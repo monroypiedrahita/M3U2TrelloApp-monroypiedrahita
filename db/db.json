@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Aprendiendo json-server con postman",
+      "author": "claristizabalg"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

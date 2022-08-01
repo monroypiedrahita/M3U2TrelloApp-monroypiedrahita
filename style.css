@@ -1,0 +1,41 @@
+.container-fluid{
+    background-color: rgb(223, 235, 235);
+    
+}
+
+#titulo {
+    color: white;
+    user-select: none;
+    margin: 3%;
+}
+
+.draggable {
+background: white;
+margin: 3%;
+border-radius: 5px;
+padding: 3%;
+
+}
+
+#hacer {
+    background-color: #123802;
+    border-radius: 1rem;
+    height: 1000px;
+    margin: 1%;
+    
+}
+
+#proceso{
+    background-color: #000a95;
+    border-radius: 1rem;
+    margin: 1%;
+    
+    
+}
+
+#finalizada {
+    background-color:#2a9500 ;
+    border-radius: 1rem;
+    margin: 1%;
+    
+}
